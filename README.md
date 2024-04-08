@@ -76,4 +76,4 @@ understanding the factors that influence Airbnb prices in New York City, or iden
 
 
 
-### **Click [here](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/blob/main/Airbnb_Analysis_(SG).ipynb) to view the solution of Airbnb Bookings EDA Analysis!** 
+
